@@ -1,7 +1,6 @@
 '''
 Anthony Karnati
 akarnat1@binghamton.edu
-Chelsea Montgomery
 4/2/14
 A55-CS110
 Assignment 9
